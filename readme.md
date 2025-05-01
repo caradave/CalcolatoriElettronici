@@ -12,12 +12,10 @@ I laboratori si concentrano sull’utilizzo di un simulatore e sull’implementa
 ## 📁 Contenuto della repo
 
 - `lab1/`, `lab2/`, ... – Soluzioni dei laboratori settimanali
-- `relazioni/` – Eventuali brevi spiegazioni o commenti scritti da me
 - `README.md` – Questo file
 
 ## 🛠️ Strumenti utilizzati
 
-- Simulatore **MARIE** (MarieSim)
 - Editor di testo (VS Code, Eclipse, ecc.)
 - Sistema operativo: Linux / Windows
 
