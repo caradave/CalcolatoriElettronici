@@ -27,7 +27,7 @@ Questa repository è a scopo **personale e didattico**. Tutto il codice presente
 
 ## 🧠 Autore
 
-**Davide Caravello**  
+**Davide Caramagna**  
 [LinkedIn](https://www.linkedin.com/in/davide-caramagna-a50836283/)
 Studente al Politecnico di Torino
 
