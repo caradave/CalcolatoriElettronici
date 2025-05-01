@@ -5,7 +5,7 @@ Questa repository contiene i laboratori e le esercitazioni svolte durante il cor
 ## 📚 Descrizione
 
 Il corso tratta temi legati all’architettura dei calcolatori, linguaggi a basso livello e programmazione in assembly.  
-I laboratori si concentrano sull’utilizzo del simulatore **MARIE** e sull’implementazione di algoritmi semplici in linguaggio assembly.
+I laboratori si concentrano sull’utilizzo di un simulatore e sull’implementazione di algoritmi in linguaggio assembly.
 
 > ⚠️ I testi ufficiali degli esercizi non sono inclusi in questa repository per rispettare il diritto d’autore dell’ateneo.
 
